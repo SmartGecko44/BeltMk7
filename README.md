@@ -1,11 +1,14 @@
 # Conveyor Belt Mk6*
 
+_If you enjoy my work, please consider my [completely optional tip jar](https://ko-fi.com/robb4)._
+
 This mod adds a conveyor belt (and lift) that moves **2000 items per minute**,
 which is the fastest speed a conveyor belt can move items before they start getting deleted.
 
 It looks exactly the same as the Mk5 belt; the point of this mod is literally just a faster belt,
 it is not focused on graphics or anything else.
 Unlock it in T8 in the HUB. They are quite pricy given their high speed.
+I balanced them around being used in small quantities where their high-throughput is required the most.
 
 ## Answered Questions
 
