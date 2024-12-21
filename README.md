@@ -5,7 +5,7 @@ _If you enjoy my work, please consider donating to my [completely optional tip j
 This mod adds a conveyor belt (and lift) that moves **2000 items per minute**,
 which is the fastest speed a conveyor belt can move items before they start getting deleted.
 
-It looks exactly the same as the Mk5 belt; the point of this mod is literally just a faster belt,
+It looks exactly the same as the Mk6 belt; the point of this mod is literally just a faster belt,
 it is not focused on graphics or anything else.
 Unlock it in T9 in the HUB (post Quantum Encoding). They are quite pricey given their high speed.
 I balanced them around being used in small quantities where their high-throughput is required the most.
