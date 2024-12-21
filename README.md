@@ -49,8 +49,8 @@ Use the following core redirect file to replace the belt with Mk6 belt and the l
 
 ```ini
 [CoreRedirects]
-+ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorLiftMk7/Build_ConveyorLiftMk6.Build_ConveyorLiftMk7_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorLiftMk6/Build_ConveyorLiftMk6.Build_ConveyorLiftMk6_C")
-+ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorBeltMk7/Build_ConveyorBeltMk6.Build_ConveyorBeltMk7_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorBeltMk6/Build_ConveyorBeltMk6.Build_ConveyorBeltMk6_C")
++ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorLiftMk7/Build_ConveyorLiftMk7.Build_ConveyorLiftMk7_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorLiftMk6/Build_ConveyorLiftMk6.Build_ConveyorLiftMk6_C")
++ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorBeltMk7/Build_ConveyorBeltMk7.Build_ConveyorBeltMk7_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorBeltMk6/Build_ConveyorBeltMk6.Build_ConveyorBeltMk6_C")
 ```
 
 ~~Important Note: the internal structure of this mod refers to Mk7* belts as Mk6
