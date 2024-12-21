@@ -5,7 +5,7 @@ _If you enjoy my work, please consider donating to my [completely optional tip j
 This mod adds a conveyor belt (and lift) that moves **2000 items per minute**,
 which is the fastest speed a conveyor belt can move items before they start getting deleted.
 
-It looks exactly the same as the Mk5 belt; the point of this mod is literally just a faster belt,
+It looks exactly the same as the Mk7 belt; the point of this mod is literally just a faster belt,
 it is not focused on graphics or anything else.
 Unlock it in T9 in the HUB (post Quantum Encoding). They are quite pricey given their high speed.
 I balanced them around being used in small quantities where their high-throughput is required the most.
@@ -49,9 +49,9 @@ Use the following core redirect file to replace the belt with Mk6 belt and the l
 
 ```ini
 [CoreRedirects]
-+ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorLiftMk6/Build_ConveyorLiftMk6.Build_ConveyorLiftMk6_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorLiftMk6/Build_ConveyorLiftMk6.Build_ConveyorLiftMk6_C")
-+ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorBeltMk6/Build_ConveyorBeltMk6.Build_ConveyorBeltMk6_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorBeltMk6/Build_ConveyorBeltMk6.Build_ConveyorBeltMk6_C")
++ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorLiftMk7/Build_ConveyorLiftMk6.Build_ConveyorLiftMk7_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorLiftMk6/Build_ConveyorLiftMk6.Build_ConveyorLiftMk6_C")
++ClassRedirects=(OldName="/BeltMk6/Buildable/ConveyorBeltMk7/Build_ConveyorBeltMk6.Build_ConveyorBeltMk7_C",NewName="/Game/FactoryGame/Buildable/Factory/ConveyorBeltMk6/Build_ConveyorBeltMk6.Build_ConveyorBeltMk6_C")
 ```
 
-Important Note: the internal structure of this mod refers to Mk7* belts as Mk6
-because this mod was made before 1.0 and Coffee Stain had me well and truly fooled that they would never add another belt tier.
+~~Important Note: the internal structure of this mod refers to Mk7* belts as Mk6
+because this mod was made before 1.0 and Coffee Stain had me well and truly fooled that they would never add another belt tier.~~
